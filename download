@@ -1,0 +1,19 @@
+# Simulink / MATLAB generated files
+slprj/
+*.slxc
+*.slx.autosave
+*.slx.r20*
+*.asv
+*.autosave
+*.mexw64
+*_ert_rtw/
+*_grt_rtw/
+codegen/
+*.out
+*.obj
+*.map
+*.lkf
+
+# OS files
+.DS_Store
+Thumbs.db
